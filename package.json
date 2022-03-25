@@ -1,0 +1,19 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "A simple Node.js mailer for handling things like contact forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElnuDev/mailer.git"
+  },
+  "author": "ElnuDev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ElnuDev/mailer/issues"
+  },
+  "homepage": "https://github.com/ElnuDev/mailer#readme"
+}
